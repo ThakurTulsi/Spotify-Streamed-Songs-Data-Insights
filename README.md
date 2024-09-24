@@ -14,8 +14,7 @@ The goal of this project is to analyze the most streamed songs on Spotify, ident
 - **Visualizations**: Interactive plots to explore trends in Spotify’s most streamed songs.
 
 ## Dataset
-
-Have included the dataset in the repository itself with the name 'Spotify Most Streamed Songs'. The dataset consists of 953 songs with the following key attributes:
+I downloaded the dataset from Kaggle (https://www.kaggle.com/datasets/abdulszz/spotify-most-streamed-songs). Have also included the dataset in the repository itself with the name 'Spotify Most Streamed Songs'. The dataset consists of 953 songs with the following key attributes:
 
 - `track_name`: Name of the song
 - `artist(s)_name`: Name of the artist(s)
