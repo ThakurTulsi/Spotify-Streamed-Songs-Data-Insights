@@ -15,7 +15,7 @@ The goal of this project is to analyze the most streamed songs on Spotify, ident
 
 ## Dataset
 
-The dataset consists of 953 songs with the following key attributes:
+Have included the dataset in the repository itself with the name 'Spotify Most Streamed Songs'. The dataset consists of 953 songs with the following key attributes:
 
 - `track_name`: Name of the song
 - `artist(s)_name`: Name of the artist(s)
